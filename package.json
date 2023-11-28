@@ -14,12 +14,15 @@
   },
   "devDependencies": {
     "@capacitor/cli": "^5.5.1",
+    "@types/react-dom": "^18.2.17",
     "typescript": "^5.2.2",
     "vite": "^5.0.0"
   },
   "dependencies": {
     "@capacitor/android": "^5.5.1",
     "@capacitor/core": "^5.5.1",
-    "@capacitor/ios": "^5.5.1"
+    "@capacitor/ios": "^5.5.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
