@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite dev --host",
     "dev:android": "cap run android",
     "dev:ios": "cap run ios",
     "build": "tsc && vite build",
