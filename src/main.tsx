@@ -7,7 +7,6 @@ import Framework7 from "framework7/bundle";
 
 Framework7.use(Framework7React);
 
-
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <App />
 )
