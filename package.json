@@ -22,6 +22,8 @@
     "@capacitor/android": "^5.5.1",
     "@capacitor/core": "^5.5.1",
     "@capacitor/ios": "^5.5.1",
+    "framework7": "^8.3.0",
+    "framework7-react": "^8.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
